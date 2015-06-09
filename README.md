@@ -1,7 +1,7 @@
 # Certificates
 
 
-#SoftUni
+## SoftUni
 Programming Basics март 2014 - https://softuni.bg/Certificates/Details/2382/57b7e87f
 
 Web Fundamentals (HTML + CSS) - май 2014 - https://softuni.bg/Certificates/Details/2380/c2f6feb3
@@ -42,7 +42,7 @@ SPA с AngularJS - декември 2014 - https://softuni.bg/Certificates/Detai
 Основи на уеб разработката - април 2015 - https://softuni.bg/Certificates/Details/5140/7de077c2
 
 
-#Hack Bulgaria
+## Hack Bulgaria
 
 Програмиране 0 - https://hackbulgaria.com/certificate/518/
 
